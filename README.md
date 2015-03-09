@@ -1,2 +1,2 @@
-# ionic-resources
+# Ionic Resources
 Resources for Cordova Developers
