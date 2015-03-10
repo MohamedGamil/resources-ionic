@@ -13,3 +13,6 @@ Resources for Ionic Developers
 * [Ben Sperry](http://bensperry.com/)
 * [Max Lynch](http://maxlynch.com/)
 * [Nic Raboy](https://blog.nraboy.com/)
+
+## Tutorials
+* [Ionic Tutorial](http://ccoenraets.github.io/ionic-tutorial/)
