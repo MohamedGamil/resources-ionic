@@ -17,3 +17,6 @@ Resources for Ionic Developers
 ## Tutorials
 * [Ionic Tutorial](http://ccoenraets.github.io/ionic-tutorial/)
 * [Mastering the Ionic Framework](https://thinkster.io/ionic-framework-tutorial/)
+
+# Contributing
+Your contributions are always welcome!
