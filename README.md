@@ -1,5 +1,5 @@
 # Ionic Resources
-Resources for Cordova Developers
+Resources for Ionic Developers
 
 ## Official
 * [Ionic](http://ionicframework.com/)
