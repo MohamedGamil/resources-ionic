@@ -7,6 +7,7 @@ Resources for Ionic Developers
 * [Documentation](http://ionicframework.com/docs/)
   * [Components](http://ionicframework.com/docs/components/)
   * [HTML5 Input Types](http://ionicframework.com/html5-input-types/)
+  * [Keyboard](http://ionicframework.com/docs/api/page/keyboard/)
   * [Publishing your app](http://ionicframework.com/docs/guide/publishing.html)
 * [Drifty](http://drifty.com/)
 * [Ionicons](http://ionicons.com/)
