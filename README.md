@@ -17,6 +17,8 @@ Resources for Ionic Developers
 * [Drifty](http://drifty.com/)
 * [Ionicons](http://ionicons.com/)
 * [GitHub](https://github.com/driftyco/ionic)
+* [Learn Ionic](http://learn.ionicframework.com/)
+  * [Formulas](http://learn.ionicframework.com/formulas/)
 
 ## Ions
 * [Frosted Glass](https://github.com/driftyco/ionic-ion-frost)
