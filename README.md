@@ -8,6 +8,7 @@ Resources for Ionic Developers
   * [Hybrid Apps and the Curse of the 300ms Delay](http://ionicframework.com/blog/hybrid-apps-and-the-curse-of-the-300ms-delay/)
   * [Minifying Your App's Source Code](http://ionicframework.com/blog/minifying-your-source-code/)
 * [CodePen](http://codepen.io/ionic/)
+  * [Public List](http://codepen.io/ionic/public-list/)
 * [Community Forums](http://forum.ionicframework.com/)
 * [Documentation](http://ionicframework.com/docs/)
   * [Components](http://ionicframework.com/docs/components/)
