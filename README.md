@@ -24,6 +24,9 @@ Resources for Ionic Developers
 ## Ions
 * [Frosted Glass](https://github.com/driftyco/ionic-ion-frost)
 * [Header Shrink](https://github.com/driftyco/ionic-ion-header-shrink)
+* [iOS Buttons](https://github.com/driftyco/ionic-ion-ios-buttons)
+* [Swipeable Cards](https://github.com/driftyco/ionic-ion-swipe-cards)
+* [Tinder Cards](https://github.com/driftyco/ionic-ion-tinder-cards)
 
 ## People
 * [Andrew McGivery](http://mcgivery.com/)
