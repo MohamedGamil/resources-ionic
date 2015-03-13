@@ -5,6 +5,7 @@ Resources for Ionic Developers
 * [Ionic](http://ionicframework.com/)
 * [Components](http://ionicframework.com/docs/components/)
 * [Documentation](http://ionicframework.com/docs/)
+  * [Publishing your app](http://ionicframework.com/docs/guide/publishing.html)
 * [Drifty](http://drifty.com/)
 * [Ionicons](http://ionicons.com/)
 
