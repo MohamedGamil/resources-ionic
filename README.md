@@ -9,6 +9,10 @@ Resources for Ionic Developers
 * [Drifty](http://drifty.com/)
 * [Ionicons](http://ionicons.com/)
 
+## Ions
+* [Frosted Glass](https://github.com/driftyco/ionic-ion-frost)
+* [Header Shrink](https://github.com/driftyco/ionic-ion-header-shrink)
+
 ## People
 * [Andrew McGivery](http://mcgivery.com/)
 * [Ben Sperry](http://bensperry.com/)
