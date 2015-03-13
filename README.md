@@ -3,6 +3,10 @@ Resources for Ionic Developers
 
 ## Official
 * [Ionic](http://ionicframework.com/)
+* [Blog](http://ionicframework.com/blog/ "The Offical Ionic Blog")
+  * [Automating Icons and Splash Screens](http://ionicframework.com/blog/automating-icons-and-splash-screens/)
+  * [Hybrid Apps and the Curse of the 300ms Delay](http://ionicframework.com/blog/hybrid-apps-and-the-curse-of-the-300ms-delay/)
+  * [Minifying Your App's Source Code](http://ionicframework.com/blog/minifying-your-source-code/)
 * [Community Forums](http://forum.ionicframework.com/)
 * [Documentation](http://ionicframework.com/docs/)
   * [Components](http://ionicframework.com/docs/components/)
